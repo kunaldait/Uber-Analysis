@@ -34,5 +34,4 @@ The steps taken to perform this analysis are:
 2. Cleaning the data
 3. Draw meaningful conclusions using the visualization libraries.
 
-Made by:
-utkarsh raj
+
